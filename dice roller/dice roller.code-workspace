@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../dice_images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dice roller"
+	}
+}
