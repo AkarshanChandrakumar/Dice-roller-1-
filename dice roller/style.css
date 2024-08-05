@@ -27,3 +27,6 @@ input{
     border:2px solid;
     border-radius:4px;
 }
+#diceImages img{
+    width:150px;
+}
